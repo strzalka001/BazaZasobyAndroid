@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Android3</string>
+    <string name="powitanie">Welcome!!</string>
+    <string name="lista_produktow">Our assortment:</string>
+    <string name="opis_produktu">Description:</string>
+
+    <string name="kot">cat</string>
+    <string name="kot_opis">Cat jawajski price: 200zł</string>
+
+    <string name="pies">Dog</string>
+    <string name="pies_opis">Dog pasterki price: 300zł</string>
+
+    <string name="chomik">Hamster</string>
+    <string name="chomik_opis">Hamster bengalski price: 15zł</string>
+
+    <string name="rybka">Goldfish</string>
+    <string name="rybka_opis">Goldfish  price: 50zł</string>
+
+    <string name="papuga">Parrot</string>
+    <string name="papuga_opis"> Parrot  price: 100zł</string>
+
+    <string name="zmiana">zmiana</string>
+
+
+
+    <string name="textview">Search For Books!</string>
+    <string name="button">Search</string>
+    <string name="hint">Title and/or Author</string>
+
+
+
+</resources>

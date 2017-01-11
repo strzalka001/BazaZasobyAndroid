@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Android3</string>
+    <string name="powitanie">Witaj w sklepie!!</string>
+    <string name="lista_produktow">Aktualny asortyment:</string>
+    <string name="opis_produktu">Opis produktu:</string>
+
+
+    <string name="kot">kotek</string>
+    <string name="kot_opis">Kot jawajski cena: 200zł</string>
+
+    <string name="pies">piesek</string>
+    <string name="pies_opis">Pies pasterki cena: 300zł</string>
+
+    <string name="chomik">chomik</string>
+    <string name="chomik_opis">Chomik bengalski cena: 15zł</string>
+
+    <string name="rybka">rybka</string>
+    <string name="rybka_opis">Złota rybka cena: 50zł</string>
+
+    <string name="papuga">papuga</string>
+    <string name="papuga_opis">Papuga  cena: 100zł</string>
+
+
+
+</resources>
+
+
+

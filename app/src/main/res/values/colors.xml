@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="hello_color">#990033</color>
+    <color name="asortyment_color">#367137</color>
+    <color name="opis_color">#344334</color>
+    <color name="tlo_color">#799cf12d</color>
+
+    <color name="pressed_color">#e70ec3</color>
+    <color name="focused_color">#02d202</color>
+    <color name="hovered_color">#fd0459f4</color>
+    <color name="default_color">#f5d208</color>
+
+</resources>
